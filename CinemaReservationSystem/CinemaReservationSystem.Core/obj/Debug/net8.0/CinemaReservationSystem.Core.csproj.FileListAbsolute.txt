@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\CinemaReservationSystem\CinemaReservationSystem\CinemaReservationSystem.Core\bin\Debug\net8.0\CinemaReservationSystem.Core.deps.json
+C:\Users\User\Desktop\CinemaReservationSystem\CinemaReservationSystem\CinemaReservationSystem.Core\bin\Debug\net8.0\CinemaReservationSystem.Core.dll
+C:\Users\User\Desktop\CinemaReservationSystem\CinemaReservationSystem\CinemaReservationSystem.Core\bin\Debug\net8.0\CinemaReservationSystem.Core.pdb
+C:\Users\User\Desktop\CinemaReservationSystem\CinemaReservationSystem\CinemaReservationSystem.Core\obj\Debug\net8.0\CinemaReservationSystem.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CinemaReservationSystem\CinemaReservationSystem\CinemaReservationSystem.Core\obj\Debug\net8.0\CinemaReservationSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CinemaReservationSystem\CinemaReservationSystem\CinemaReservationSystem.Core\obj\Debug\net8.0\CinemaReservationSystem.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CinemaReservationSystem\CinemaReservationSystem\CinemaReservationSystem.Core\obj\Debug\net8.0\CinemaReservationSystem.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\CinemaReservationSystem\CinemaReservationSystem\CinemaReservationSystem.Core\obj\Debug\net8.0\CinemaReservationSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CinemaReservationSystem\CinemaReservationSystem\CinemaReservationSystem.Core\obj\Debug\net8.0\CinemaReservationSystem.Core.sourcelink.json
+C:\Users\User\Desktop\CinemaReservationSystem\CinemaReservationSystem\CinemaReservationSystem.Core\obj\Debug\net8.0\CinemaReservationSystem.Core.dll
+C:\Users\User\Desktop\CinemaReservationSystem\CinemaReservationSystem\CinemaReservationSystem.Core\obj\Debug\net8.0\refint\CinemaReservationSystem.Core.dll
+C:\Users\User\Desktop\CinemaReservationSystem\CinemaReservationSystem\CinemaReservationSystem.Core\obj\Debug\net8.0\CinemaReservationSystem.Core.pdb
+C:\Users\User\Desktop\CinemaReservationSystem\CinemaReservationSystem\CinemaReservationSystem.Core\obj\Debug\net8.0\ref\CinemaReservationSystem.Core.dll
