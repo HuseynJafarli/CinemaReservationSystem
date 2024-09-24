@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95CF2D7E-0208-4753-A2F3-2A333D668B3D}|CinemaReservationSystem.API\\CinemaReservationSystem.API.csproj|c:\\users\\user\\desktop\\cinemareservationsystem\\cinemareservationsystem\\cinemareservationsystem.api\\controllers\\theaterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CF2D7E-0208-4753-A2F3-2A333D668B3D}|CinemaReservationSystem.API\\CinemaReservationSystem.API.csproj|solutionrelative:cinemareservationsystem.api\\controllers\\theaterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AF1BF2-041F-4910-A569-5BB7586F7E50}|CinemaReservationSystem.Business\\CinemaReservationSystem.Business.csproj|c:\\users\\user\\desktop\\cinemareservationsystem\\cinemareservationsystem\\cinemareservationsystem.business\\services\\implementations\\theaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AF1BF2-041F-4910-A569-5BB7586F7E50}|CinemaReservationSystem.Business\\CinemaReservationSystem.Business.csproj|solutionrelative:cinemareservationsystem.business\\services\\implementations\\theaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934FE56C-BEE9-4852-B727-5DA1E033365E}|CinemaReservationSystem.Core\\CinemaReservationSystem.Core.csproj|c:\\users\\user\\desktop\\cinemareservationsystem\\cinemareservationsystem\\cinemareservationsystem.core\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934FE56C-BEE9-4852-B727-5DA1E033365E}|CinemaReservationSystem.Core\\CinemaReservationSystem.Core.csproj|solutionrelative:cinemareservationsystem.core\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CF2D7E-0208-4753-A2F3-2A333D668B3D}|CinemaReservationSystem.API\\CinemaReservationSystem.API.csproj|c:\\users\\user\\desktop\\cinemareservationsystem\\cinemareservationsystem\\cinemareservationsystem.api\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CF2D7E-0208-4753-A2F3-2A333D668B3D}|CinemaReservationSystem.API\\CinemaReservationSystem.API.csproj|solutionrelative:cinemareservationsystem.api\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AF1BF2-041F-4910-A569-5BB7586F7E50}|CinemaReservationSystem.Business\\CinemaReservationSystem.Business.csproj|c:\\users\\user\\desktop\\cinemareservationsystem\\cinemareservationsystem\\cinemareservationsystem.business\\mappingprofiles\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AF1BF2-041F-4910-A569-5BB7586F7E50}|CinemaReservationSystem.Business\\CinemaReservationSystem.Business.csproj|solutionrelative:cinemareservationsystem.business\\mappingprofiles\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CF2D7E-0208-4753-A2F3-2A333D668B3D}|CinemaReservationSystem.API\\CinemaReservationSystem.API.csproj|c:\\users\\user\\desktop\\cinemareservationsystem\\cinemareservationsystem\\cinemareservationsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CF2D7E-0208-4753-A2F3-2A333D668B3D}|CinemaReservationSystem.API\\CinemaReservationSystem.API.csproj|solutionrelative:cinemareservationsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934FE56C-BEE9-4852-B727-5DA1E033365E}|CinemaReservationSystem.Core\\CinemaReservationSystem.Core.csproj|c:\\users\\user\\desktop\\cinemareservationsystem\\cinemareservationsystem\\cinemareservationsystem.core\\entities\\theater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934FE56C-BEE9-4852-B727-5DA1E033365E}|CinemaReservationSystem.Core\\CinemaReservationSystem.Core.csproj|solutionrelative:cinemareservationsystem.core\\entities\\theater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CF2D7E-0208-4753-A2F3-2A333D668B3D}|CinemaReservationSystem.API\\CinemaReservationSystem.API.csproj|c:\\users\\user\\desktop\\cinemareservationsystem\\cinemareservationsystem\\cinemareservationsystem.api\\controllers\\showtimescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CF2D7E-0208-4753-A2F3-2A333D668B3D}|CinemaReservationSystem.API\\CinemaReservationSystem.API.csproj|solutionrelative:cinemareservationsystem.api\\controllers\\showtimescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CF2D7E-0208-4753-A2F3-2A333D668B3D}|CinemaReservationSystem.API\\CinemaReservationSystem.API.csproj|c:\\users\\user\\desktop\\cinemareservationsystem\\cinemareservationsystem\\cinemareservationsystem.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CF2D7E-0208-4753-A2F3-2A333D668B3D}|CinemaReservationSystem.API\\CinemaReservationSystem.API.csproj|solutionrelative:cinemareservationsystem.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CF2D7E-0208-4753-A2F3-2A333D668B3D}|CinemaReservationSystem.API\\CinemaReservationSystem.API.csproj|c:\\users\\user\\desktop\\cinemareservationsystem\\cinemareservationsystem\\cinemareservationsystem.api\\apiresponses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CF2D7E-0208-4753-A2F3-2A333D668B3D}|CinemaReservationSystem.API\\CinemaReservationSystem.API.csproj|solutionrelative:cinemareservationsystem.api\\apiresponses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +50,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.Business\\MappingProfiles\\MapProfile.cs",
+              "RelativeDocumentMoniker": "CinemaReservationSystem.Business\\MappingProfiles\\MapProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.Business\\MappingProfiles\\MapProfile.cs",
+              "RelativeToolTip": "CinemaReservationSystem.Business\\MappingProfiles\\MapProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:20:39.075Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.Core\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "CinemaReservationSystem.Core\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.Core\\Entities\\Reservation.cs",
+              "RelativeToolTip": "CinemaReservationSystem.Core\\Entities\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:56:18.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TheaterService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.Business\\Services\\Implementations\\TheaterService.cs",
+              "RelativeDocumentMoniker": "CinemaReservationSystem.Business\\Services\\Implementations\\TheaterService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.Business\\Services\\Implementations\\TheaterService.cs",
+              "RelativeToolTip": "CinemaReservationSystem.Business\\Services\\Implementations\\TheaterService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:33:37.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TheatersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.API\\Controllers\\TheatersController.cs",
+              "RelativeDocumentMoniker": "CinemaReservationSystem.API\\Controllers\\TheatersController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.API\\Controllers\\TheatersController.cs",
+              "RelativeToolTip": "CinemaReservationSystem.API\\Controllers\\TheatersController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:28:41.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.API\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "CinemaReservationSystem.API\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.API\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "CinemaReservationSystem.API\\Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:53:04.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Theater.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.Core\\Entities\\Theater.cs",
+              "RelativeDocumentMoniker": "CinemaReservationSystem.Core\\Entities\\Theater.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.Core\\Entities\\Theater.cs",
+              "RelativeToolTip": "CinemaReservationSystem.Core\\Entities\\Theater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:32:42.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShowTimesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.API\\Controllers\\ShowTimesController.cs",
+              "RelativeDocumentMoniker": "CinemaReservationSystem.API\\Controllers\\ShowTimesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.API\\Controllers\\ShowTimesController.cs",
+              "RelativeToolTip": "CinemaReservationSystem.API\\Controllers\\ShowTimesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:26:34.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.API\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "CinemaReservationSystem.API\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.API\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "CinemaReservationSystem.API\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:37:45.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.API\\ApiResponses\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "CinemaReservationSystem.API\\ApiResponses\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.API\\ApiResponses\\ApiResponse.cs",
+              "RelativeToolTip": "CinemaReservationSystem.API\\ApiResponses\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:33:19.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "CinemaReservationSystem.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CinemaReservationSystem\\CinemaReservationSystem\\CinemaReservationSystem.API\\Program.cs",
+              "RelativeToolTip": "CinemaReservationSystem.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:25:24.329Z",
+              "EditorCaption": ""
             }
           ]
         }

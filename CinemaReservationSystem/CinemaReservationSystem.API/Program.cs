@@ -1,3 +1,6 @@
+using CinemaReservationSystem.Data;
+using CinemaReservationSystem.Business;
+using CinemaReservationSystem.Business.MappingProfiles;
 using CinemaReservationSystem.Core.Entities;
 using CinemaReservationSystem.Data.Contexts;
 using Microsoft.AspNetCore.Identity;
@@ -17,16 +20,23 @@ namespace CinemaReservationSystem.API
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            builder.Services.AddAutoMapper(opt =>
+            {
+                opt.AddProfile<MapProfile>();
+            });
+
             builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
             {
                 opt.User.RequireUniqueEmail = true;
                 opt.Password.RequiredUniqueChars = 2;
                 opt.Password.RequiredLength = 8;
             }).AddEntityFrameworkStores<AppDbContext>();
-            builder.Services.AddDbContext<AppDbContext>(opt =>
-            {
-                opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
-            });
+
+            builder.Services.AddRepositories(builder.Configuration.GetConnectionString("default"));
+            builder.Services.AddServices();
+
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
