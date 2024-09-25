@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaReservationSystem.Core", "CinemaReservationSystem.Core\CinemaReservationSystem.Core.csproj", "{934FE56C-BEE9-4852-B727-5DA1E033365E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CinemaReservationSystem.Core", "CinemaReservationSystem.Core\CinemaReservationSystem.Core.csproj", "{934FE56C-BEE9-4852-B727-5DA1E033365E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaReservationSystem.Data", "CinemaReservationSystem.Data\CinemaReservationSystem.Data.csproj", "{3F9AA47E-5AEE-41E7-92CE-B7205DB23A45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CinemaReservationSystem.Data", "CinemaReservationSystem.Data\CinemaReservationSystem.Data.csproj", "{3F9AA47E-5AEE-41E7-92CE-B7205DB23A45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaReservationSystem.Business", "CinemaReservationSystem.Business\CinemaReservationSystem.Business.csproj", "{E4AF1BF2-041F-4910-A569-5BB7586F7E50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CinemaReservationSystem.Business", "CinemaReservationSystem.Business\CinemaReservationSystem.Business.csproj", "{E4AF1BF2-041F-4910-A569-5BB7586F7E50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaReservationSystem.API", "CinemaReservationSystem.API\CinemaReservationSystem.API.csproj", "{95CF2D7E-0208-4753-A2F3-2A333D668B3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CinemaReservationSystem.API", "CinemaReservationSystem.API\CinemaReservationSystem.API.csproj", "{95CF2D7E-0208-4753-A2F3-2A333D668B3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaReservationSystem.MVC", "CinemaReservationSystem.MVC\CinemaReservationSystem.MVC.csproj", "{F7F9EE8A-863A-4BC4-9265-B0980DD507F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{95CF2D7E-0208-4753-A2F3-2A333D668B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95CF2D7E-0208-4753-A2F3-2A333D668B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95CF2D7E-0208-4753-A2F3-2A333D668B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F9EE8A-863A-4BC4-9265-B0980DD507F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F9EE8A-863A-4BC4-9265-B0980DD507F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F9EE8A-863A-4BC4-9265-B0980DD507F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F9EE8A-863A-4BC4-9265-B0980DD507F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

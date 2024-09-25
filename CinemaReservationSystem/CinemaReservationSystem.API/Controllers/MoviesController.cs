@@ -2,7 +2,6 @@
 using CinemaReservationSystem.Business.DTOs.MovieDTOs;
 using CinemaReservationSystem.Business.Exceptions.Common;
 using CinemaReservationSystem.Business.Services.Interfaces;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CinemaReservationSystem.API.Controllers
@@ -24,8 +23,6 @@ namespace CinemaReservationSystem.API.Controllers
             return Ok(new ApiResponse<ICollection<MovieGetDto>>
             {
                 Data = await movieService.GetByExpressionAsync(true, null),
-                ErrorMessage = null,
-                PropertyName = null,
                 StatusCode = StatusCodes.Status200OK
             });
         }
@@ -44,7 +41,6 @@ namespace CinemaReservationSystem.API.Controllers
                 {
                     StatusCode = StatusCodes.Status400BadRequest,
                     ErrorMessage = ex.Message,
-                    Data = null
                 });
             }
 
@@ -65,7 +61,6 @@ namespace CinemaReservationSystem.API.Controllers
                 {
                     StatusCode = ex.StatusCode,
                     ErrorMessage = ex.Message,
-                    Data = null
                 });
             }
             catch (EntityNotFoundException ex)
@@ -74,7 +69,6 @@ namespace CinemaReservationSystem.API.Controllers
                 {
                     StatusCode = StatusCodes.Status404NotFound,
                     ErrorMessage = "Entity not found",
-                    Data = null
                 });
             }
             catch (Exception ex)
@@ -83,7 +77,6 @@ namespace CinemaReservationSystem.API.Controllers
                 {
                     StatusCode = StatusCodes.Status400BadRequest,
                     ErrorMessage = ex.Message,
-                    Data = null
                 });
             }
 
@@ -91,7 +84,6 @@ namespace CinemaReservationSystem.API.Controllers
             {
                 Data = dto,
                 StatusCode = StatusCodes.Status200OK,
-                ErrorMessage = null
             });
 
 
@@ -110,7 +102,6 @@ namespace CinemaReservationSystem.API.Controllers
                 {
                     StatusCode = ex.StatusCode,
                     ErrorMessage = ex.Message,
-                    Data = null
                 });
             }
             catch (EntityNotFoundException ex)
@@ -119,7 +110,6 @@ namespace CinemaReservationSystem.API.Controllers
                 {
                     StatusCode = StatusCodes.Status404NotFound,
                     ErrorMessage = "Entity not found",
-                    Data = null
                 });
             }
             catch (Exception ex)
@@ -128,7 +118,6 @@ namespace CinemaReservationSystem.API.Controllers
                 {
                     StatusCode = StatusCodes.Status400BadRequest,
                     ErrorMessage = ex.Message,
-                    Data = null
                 });
             }
 
@@ -148,7 +137,6 @@ namespace CinemaReservationSystem.API.Controllers
                 {
                     StatusCode = ex.StatusCode,
                     ErrorMessage = ex.Message,
-                    Data = null
                 });
             }
             catch (EntityNotFoundException ex)
@@ -157,7 +145,6 @@ namespace CinemaReservationSystem.API.Controllers
                 {
                     StatusCode = StatusCodes.Status404NotFound,
                     ErrorMessage = "Entity not found",
-                    Data = null
                 });
             }
             catch (Exception ex)
@@ -166,7 +153,6 @@ namespace CinemaReservationSystem.API.Controllers
                 {
                     StatusCode = StatusCodes.Status400BadRequest,
                     ErrorMessage = ex.Message,
-                    Data = null
                 });
             }
 

@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "CinemaReservationSystem.API.Controllers.AuthController",
+    "Method": "AddRole",
+    "RelativePath": "api/Auth",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CinemaReservationSystem.API.Controllers.MoviesController",
     "Method": "GetAll",
     "RelativePath": "api/Movies",
@@ -145,6 +155,85 @@
     "ContainingType": "CinemaReservationSystem.API.Controllers.ReservationsController",
     "Method": "Delete",
     "RelativePath": "api/Reservations/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CinemaReservationSystem.API.Controllers.SeatReservationsController",
+    "Method": "GetAll",
+    "RelativePath": "api/SeatReservations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CinemaReservationSystem.API.Controllers.SeatReservationsController",
+    "Method": "Create",
+    "RelativePath": "api/SeatReservations",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CinemaReservationSystem.Business.DTOs.SeatReservationDTOs.SeatReservationCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CinemaReservationSystem.API.Controllers.SeatReservationsController",
+    "Method": "Get",
+    "RelativePath": "api/SeatReservations/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CinemaReservationSystem.API.Controllers.SeatReservationsController",
+    "Method": "Update",
+    "RelativePath": "api/SeatReservations/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "CinemaReservationSystem.Business.DTOs.SeatReservationDTOs.SeatReservationUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CinemaReservationSystem.API.Controllers.SeatReservationsController",
+    "Method": "Delete",
+    "RelativePath": "api/SeatReservations/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
